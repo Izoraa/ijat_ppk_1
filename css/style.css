@@ -62,3 +62,20 @@ button {
 button:hover {
     background-color: #555;
 }
+
+.contact-card {
+    background-color: white;
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-card h2 {
+    margin-bottom: 20px;
+}
+
+.contact-card p {
+    margin-bottom: 12px;
+}
